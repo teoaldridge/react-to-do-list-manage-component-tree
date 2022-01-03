@@ -1,2 +1,2 @@
-# react-to-do-list-manage-component-tree
+# react-to-do-list-line-through
 Created with CodeSandbox
